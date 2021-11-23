@@ -1,3 +1,6 @@
+Class Project showcasing different aspects of level design and other related topics, to be updated over time.
+
+
 # 09-14-module3-SNAPS-Base
 This project will house scenes for level design, interiors and exteriors, lighting, audio and particle systems,
 
